@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nagisabeautysalonphoenix-blip.github.io/nagisa-biyoushitsu-phoenix/sitemap.xml
+Sitemap: https://nagisa-biyoushitsu-phoenix.github.io/nagisa-biyoushitsu-phoenix/sitemap.xml

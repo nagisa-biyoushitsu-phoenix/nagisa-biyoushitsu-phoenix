@@ -167,6 +167,52 @@ h1, h2, h3 {
 .btn-outline { border: 1px solid var(--color-accent); color: #fbf3e9; }
 .btn-large { font-size: 1.3rem; padding: 18px 40px; margin: 20px 0; }
 
+/* Parking / Notice */
+.parking-mark {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  line-height: 1.5em;
+  margin-right: 0.5em;
+  text-align: center;
+  font-weight: 700;
+  font-size: 0.9em;
+  color: #fff;
+  background: #2f6fb5;
+  border-radius: 4px;
+}
+.hero-parking {
+  margin: 28px 0 0;
+  font-size: 0.95rem;
+  color: #f0e2d0;
+}
+.notice {
+  background: #fff7e6;
+  border-top: 3px solid var(--color-accent);
+  border-bottom: 3px solid var(--color-accent);
+  padding: 40px 20px;
+  text-align: center;
+}
+.notice-inner { max-width: 720px; margin: 0 auto; }
+.notice-label {
+  display: inline-block;
+  margin: 0 0 12px;
+  padding: 2px 14px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: #fff;
+  background: var(--color-primary);
+  border-radius: 999px;
+}
+.notice-title {
+  font-size: 1.6rem;
+  color: var(--color-primary);
+  margin-bottom: 8px;
+}
+.notice-text { margin: 0 0 20px; color: var(--color-text-muted); }
+.notice .btn-primary { background: var(--color-primary); color: #fbf3e9; }
+
 /* About */
 .about-lead {
   text-align: center;
